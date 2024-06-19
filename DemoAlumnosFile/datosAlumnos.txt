@@ -1,0 +1,6 @@
+1-1,Susana,22
+2-2,Juan,19
+3-3,Sandrita,22
+4-4,Juan,23
+5-5,Manuel,20
+6-6,osvaldo,23
